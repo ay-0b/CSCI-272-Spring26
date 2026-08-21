@@ -2,7 +2,7 @@
 Name: Ayoub Rannan
 Course: CSCI 272
 Lesson Number: Lesson 4
-Code Topic: onstructor Example
+Code Topic: Constructor Example
 Date: 03/05/2026
 */
 
